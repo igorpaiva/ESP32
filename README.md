@@ -1,2 +1,2 @@
 # ESP32
-some text here
+Personal projects and other stuff.
